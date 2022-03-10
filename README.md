@@ -1,5 +1,8 @@
 # Endeavor
-Application for temporary creating AAA organizations with a specific work scope inside mayor projects.
+Application for the creation of brief AAA organizations with a specific work scope inside mayor projects.
 
 ### Concept
-Application for an automated system that promote temporary jobs and assigment, hire addecuate personnel, and earnings and benefits.
+An automated system that:
+- promote temporary jobs or assigments
+- hires the addecuate personnel
+- manage wages, payments, contracts, and benefits.
